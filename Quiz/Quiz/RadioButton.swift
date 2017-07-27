@@ -27,6 +27,7 @@ class CustomRadioButton: UIButton {
             circleLayer.strokeColor = strokeColor.cgColor
             self.toggleButton()
             print("adsfadf")
+            print("feature 1")
         }
     }
     
